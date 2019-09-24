@@ -14,18 +14,31 @@
 Les noms et adjectifs **masculins** qui se finnissent avev **-al** au pluriel ça deviendt **-aux**
 *Masculinos que en singular tenrminan en -al, pasan a terminar en -aux, en plural.*
 
-| Exemples                                                         |    Exceptions |
-|:-----------------------------------------------------------------|--------------:|
-| **Noms**                                                         |      **Noms** |
-| un animal > des anim**aux**                                      |   un carnaval |
-| un général a l'armé > des génér**aux**                           |   un festival |
-| un capital > des capit**aux**                                    |    un récital |
-| **Adjectifs**                                                    | **Adjectifs** |
-| un film experimental > des films ex`çeriment**aux**      | banal |               |
-| un accord international > des accords internation**aux**         |        bancal |
-| Hôpital >                                                        |         fatal |
-| International >                                                  |         natal |
-|                                                                  |         naval |
+| Exemples                                                         |
+|:-----------------------------------------------------------------|
+| **Noms**                                                         |
+| un animal > des anim**aux**                                      |
+| un général a l'armé > des génér**aux**                           |
+| un capital > des capit**aux**                                    |
+| **Adjectifs**                                                    |
+| un film experimental > des films ex`çeriment**aux**      | banal |
+| un accord international > des accords internation**aux**         |
+| Hôpital >                                                        |
+| International >                                                  |
+|                                                                  |
+
+| Exceptions    |
+|:--------------|
+| **Noms**      |
+| un carnaval   |
+| un festival   |
+| un récital    |
+| **Adjectifs** |
+|               |
+| bancal        |
+| fatal         |
+| natal         |
+| naval         |
 
 Attention parce qu'avec les noms **féminins**, le pluriel est régulier:
 
