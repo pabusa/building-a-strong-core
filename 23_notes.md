@@ -7,9 +7,9 @@
 - souvent > frecuentemente
 - beaucoup > mucho
 
-## Les pluriels irréguliers
+## Grammaire. Les pluriels irréguliers
 
-### Las reglas
+### Les règles
 
 Les noms et adjectifs **masculins** qui se finnissent avev **-al** au pluriel ça deviendt **-aux**
 *Masculinos que en singular tenrminan en -al, pasan a terminar en -aux, en plural.*
