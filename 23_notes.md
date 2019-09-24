@@ -14,18 +14,18 @@
 Les noms et adjectifs **masculins** qui se finnissent avev **-al** au pluriel ça deviendt **-aux**
 *Masculinos que en singular tenrminan en -al, pasan a terminar en -aux, en plural.*
 
-| Exemples                                                 | Exceptions                            |
-| :------------------------------------------------------- | ------------------------------------: |
-| **Noms**                                                 | **Noms**                              |
-| un animal > des anim**aux**                              | un carnaval                           |
-| un général a l'armé > des génér**aux**                   | un festival                           |
-| un capital > des capit**aux**                            | un récital                            |
- | **Adjectifs**                                           | **Adjectifs**                         |
-| un film experimental > des films ex`çeriment**aux**      | banal                                 |
-| un accord international > des accords internation**aux** | bancal                                |
-| Hôpital >                                                | fatal                                 |
-| International >                                          | natal                                 |
-|                                                          | naval                                 |
+| Exemples                                                         |    Exceptions |
+|:-----------------------------------------------------------------|--------------:|
+| **Noms**                                                         |      **Noms** |
+| un animal > des anim**aux**                                      |   un carnaval |
+| un général a l'armé > des génér**aux**                           |   un festival |
+| un capital > des capit**aux**                                    |    un récital |
+| **Adjectifs**                                                    | **Adjectifs** |
+| un film experimental > des films ex`çeriment**aux**      | banal |               |
+| un accord international > des accords internation**aux**         |        bancal |
+| Hôpital >                                                        |         fatal |
+| International >                                                  |         natal |
+|                                                                  |         naval |
 
 Attention parce qu'avec les noms **féminins**, le pluriel est régulier:
 
@@ -36,14 +36,14 @@ Attention parce qu'avec les noms **féminins**, le pluriel est régulier:
 
 ### Autres pluriels irréguliers
 
-| Singulier   | Pluriel     |
-| :---------  | ----------: |
-| **Noms**    |             |
-| un travail  | des travaux |
-| un vitrail  | des vitraux |
-| un œil      | des yeux    |
-| **Adjectif**|             |
-| un vieil    | des vieux   |
+| Singulier    |     Pluriel |
+|:-------------|------------:|
+| **Noms**     |             |
+| un travail   | des travaux |
+| un vitrail   | des vitraux |
+| un œil       |    des yeux |
+| **Adjectif** |             |
+| un vieil     |   des vieux |
 
 *Un vieil homme, des vieux hommes.*
 
@@ -75,21 +75,21 @@ Son les noms qui finissent deja avec **-s**, **-x** ou **-z** au singulier.
 
 Par example:
 
-| Singulier | → | Pluriel  | |
-| :-------- | - | --------:|-|
-| un fils   | → | des fils | |
-| un cas    | → | des cas  | |
-| un os     | → | des os   | ***No se pronuncia la s en el plural|
-| un gaz    | → | des gaz  | |
-| un quiz   | → | des quiz | |
+| Singulier | → |  Pluriel |                                      |
+|:----------|---|---------:|--------------------------------------|
+| un fils   | → | des fils |                                      |
+| un cas    | → |  des cas |                                      |
+| un os     | → |   des os | ***No se pronuncia la s en el plural |
+| un gaz    | → |  des gaz |                                      |
+| un quiz   | → | des quiz |                                      |
 
 ***Attention:*** Il y a certains mots dont la prononciation change au pluriel.
 
-| Singulier | → | Pluriel   |  |
-| ---       | - | --------: | --- |
-|un os      | → | des os    | On prononce le **-s** au singulier mais pas au pluriel.|
-|un oeuf    | → | des oeufs | On prononce le **-f** au singulier mais pas au pluriel.|
-|un boeuf   | → | des boeuf | On prononce le **-f** au singulier mais pas au pluriel.|
+| Singulier | → |   Pluriel |                                                         |
+|-----------|---|----------:|---------------------------------------------------------|
+| un os     | → |    des os | On prononce le **-s** au singulier mais pas au pluriel. |
+| un oeuf   | → | des oeufs | On prononce le **-f** au singulier mais pas au pluriel. |
+| un boeuf  | → | des boeuf | On prononce le **-f** au singulier mais pas au pluriel. |
 
 ### Expressions
 
