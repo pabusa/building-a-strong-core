@@ -54,7 +54,7 @@ Seulement trois (3) exceptions
 3) Condition "si"
    - Tu vas prendre des risques **en faisant** ça
 
-### Attention à ne pas confindre le gérondif et le participe présent
+### Attention à ne pas confondre le gérondif et le participe présent
 
 Le participe présent c'est le gérondif **sans "en"**. On l'utilise à l'écrit pour remplacer **"qui" + verbe**
 
