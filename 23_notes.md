@@ -25,7 +25,6 @@ Les noms et adjectifs **masculins** qui se finnissent avev **-al** au pluriel ç
 | un accord international > des accords internation**aux**         |
 | Hôpital >                                                        |
 | International >                                                  |
-|                                                                  |
 
 | Exceptions    |
 |:--------------|
